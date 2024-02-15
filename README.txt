@@ -1,4 +1,4 @@
-Python code for chemical profiling of polymer data measured with LA-ICP-MS.
+Python code for chemical profiling of polymers with LA-ICP-MS.
 
 Background
 This work is accompanying a manuscript on 'Evaluating the strength of evidence of elemental profiling of polymers with LA-ICP-MS.'
