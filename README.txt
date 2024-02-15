@@ -6,7 +6,7 @@ This work is accompanying a manuscript on 'Evaluating the strength of evidence o
 Summary
 In the analysis elemental LA-ICP-MS data was assessed. The aim was to compare several data pre-processing and statistical methods to improve classification and comparison of polymer evidence materials of forensic relevance. 
 Four datasets of tapes, electrical wires, tubing, and Jerry cans with 220 forensically relevant polymer objects originating from 175 sources in total (n=8) were analyzed by LA-ICP-MS. 
-The responses of 18 elements (23Na, 25Mg, 27Al, 29Si, 39K, 44Ca, 47Ti, 55Mn, 57Fe, 60Ni, 63Cu, 75As, 88Sr, 93Nb, 118Sn, 121Sb, 138Ba, 208Pb). ) was measured. 
+The responses of 18 elements (23Na, 25Mg, 27Al, 29Si, 39K, 44Ca, 47Ti, 55Mn, 57Fe, 60Ni, 63Cu, 75As, 88Sr, 93Nb, 118Sn, 121Sb, 138Ba, 208Pb). ) were measured. 
 Various normalization and quantification methods were applied, including the use of a novel matrix-matched polymer reference standard for quantification.
 
 Data
